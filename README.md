@@ -1,2 +1,3 @@
 # blog-framework-windwalker
-blog for windwalker framework
+
+[Blog](http://foreachsam.github.io/blog-framework-windwalker/) for [Windwalker Framework](http://windwalker.io/).
