@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://foreachsam.github.io/blog-framework-windwalker/article/read/resource/index/</loc>
+    <lastmod>2015-01-13T20:46:39.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://foreachsam.github.io/blog-framework-windwalker/article/read/site/start/</loc>
-    <lastmod>2015-01-13T00:50:25.000Z</lastmod>
+    <lastmod>2015-01-13T20:17:32.000Z</lastmod>
   </url>
   
 </urlset>

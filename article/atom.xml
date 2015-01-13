@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Windwalker 探索]]></subtitle>
   <link href="/blog-framework-windwalker/article/atom.xml" rel="self"/>
   <link href="http://foreachsam.github.io/blog-framework-windwalker/article/"/>
-  <updated>2015-01-13T19:52:15.755Z</updated>
+  <updated>2015-01-13T20:52:22.012Z</updated>
   <id>http://foreachsam.github.io/blog-framework-windwalker/article/</id>
   
   <author>
@@ -15,11 +15,63 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[相關資源]]></title>
+    <link href="http://foreachsam.github.io/blog-framework-windwalker/article/read/resource/index/"/>
+    <id>http://foreachsam.github.io/blog-framework-windwalker/article/read/resource/index/</id>
+    <published>2015-01-13T20:16:42.000Z</published>
+    <updated>2015-01-13T20:46:39.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="相關資源">相關資源</h1>
+<h2 id="官網">官網</h2>
+<ul>
+<li><a href="http://windwalker.io/" target="_blank" rel="external">Windwalker - A Modern PHP Framework</a></li>
+</ul>
+<h2 id="Github">Github</h2>
+<ul>
+<li><a href="https://github.com/ventoviro/windwalker" target="_blank" rel="external">windwalker</a></li>
+<li><a href="https://github.com/ventoviro/windwalker-starter" target="_blank" rel="external">windwalker-starter</a></li>
+<li><a href="https://github.com/ventoviro/windwalker-core" target="_blank" rel="external">windwalker-core</a></li>
+<li><a href="https://github.com/ventoviro/ventoviro.github.io.git" target="_blank" rel="external">windwalker.io</a></li>
+</ul>
+<h2 id="Blog">Blog</h2>
+<ul>
+<li><a href="http://asika.windspeaker.co/" target="_blank" rel="external">Asika Lab 飛鳥實驗室</a></li>
+<li><a href="http://about.asika.tw/" target="_blank" rel="external">Simon Asika</a></li>
+</ul>
+<h2 id="集散地">集散地</h2>
+<ul>
+<li><a href="https://packagist.org/search/?q=windwalker" target="_blank" rel="external">Packagist</a></li>
+<li><a href="http://phptrends.com/dig_in/windwalker" target="_blank" rel="external">phptrends</a></li>
+</ul>
+<h2 id="Misc">Misc</h2>
+<ul>
+<li><a href="https://github.com/ventoviro/" target="_blank" rel="external">ventoviro</a></li>
+<li><a href="https://github.com/asika32764" target="_blank" rel="external">asika32764</a></li>
+<li><a href="https://github.com/asikart" target="_blank" rel="external">asikart</a></li>
+<li><a href="https://github.com/smstw" target="_blank" rel="external">smstw</a></li>
+<li><a href="http://asikart.com/" target="_blank" rel="external">Asikart Studio</a></li>
+<li><a href="http://www.bm-sms.com.tw/" target="_blank" rel="external">SMS Taiwan</a></li>
+<li><a href="http://ext.asikart.com" target="_blank" rel="external">Asikart Extensions</a></li>
+<li><a href="https://github.com/asikart/windwalker-framework" target="_blank" rel="external">windwalker-framework</a></li>
+<li><a href="https://github.com/ventoviro/windwalker-joomla-rad" target="_blank" rel="external">windwalker-joomla-rad</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[相關資源]]>
+    
+    </summary>
+    
+      <category term="index" scheme="http://foreachsam.github.io/blog-framework-windwalker/article/find/tag/index/"/>
+    
+      <category term="resource" scheme="http://foreachsam.github.io/blog-framework-windwalker/article/find/category/resource/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[開站拉！]]></title>
     <link href="http://foreachsam.github.io/blog-framework-windwalker/article/read/site/start/"/>
     <id>http://foreachsam.github.io/blog-framework-windwalker/article/read/site/start/</id>
     <published>2015-01-12T13:46:56.000Z</published>
-    <updated>2015-01-13T00:50:25.000Z</updated>
+    <updated>2015-01-13T20:17:32.000Z</updated>
     <content type="html"><![CDATA[<h1 id="開站拉！">開站拉！</h1>
 <p>開站拉，這個部落格，用來紀錄對「<a href="http://windwalker.io/" target="_blank" rel="external">Windwalker Framework</a>」的探索心得!</p>
 ]]></content>
@@ -29,8 +81,6 @@
     </summary>
     
       <category term="start" scheme="http://foreachsam.github.io/blog-framework-windwalker/article/find/tag/start/"/>
-    
-      <category term="index" scheme="http://foreachsam.github.io/blog-framework-windwalker/article/find/tag/index/"/>
     
       <category term="site" scheme="http://foreachsam.github.io/blog-framework-windwalker/article/find/category/site/"/>
     
