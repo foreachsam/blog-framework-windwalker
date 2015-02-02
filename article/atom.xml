@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Windwalker Explore]]></title>
+  <title><![CDATA[Windwalker Exploration]]></title>
   <subtitle><![CDATA[Windwalker 探索]]></subtitle>
   <link href="/blog-framework-windwalker/article/atom.xml" rel="self"/>
   <link href="http://foreachsam.github.io/blog-framework-windwalker/article/"/>
-  <updated>2015-01-15T03:03:55.753Z</updated>
+  <updated>2015-02-02T15:31:34.758Z</updated>
   <id>http://foreachsam.github.io/blog-framework-windwalker/article/</id>
   
   <author>
